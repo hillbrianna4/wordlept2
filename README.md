@@ -1,6 +1,6 @@
-# Project 2 - *Name of App Here*
+# Project 2 - Wordle pt2
 
-Submitted by: **Your Name Here**
+Submitted by: Brianna Hill
 
 **Name of your app** is an app that ... [TODO] 
 
@@ -25,6 +25,10 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+
+
+https://github.com/user-attachments/assets/8487bf4c-7353-435d-8863-cf985b7b56cf
+
 
 
 
